@@ -6,7 +6,7 @@ title: Manuelle Oliveira
 superuser: true
 
 # Role/position
-role: Professor de Engenharia Elétrica
+role: Professora de Engenharia Elétrica
 
 # Organizations/Affiliations
 organizations:
