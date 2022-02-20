@@ -2,11 +2,15 @@
 # Display name
 title: Matheus Saturno
 
+# Username (this should match the folder name)
+authors:
+- matheus-saturno
+
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Graduando em Engenharia / Pesquisador
+role: Graduando em Engenharia e Pesquisador
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +37,7 @@ education:
   courses:
   - course: Graduação em Engenharia Elétrica
     institution: IFPE
-    year: 2018
+    year: 
 	
   - course: Técnico em Informática
     institution: EAD PE
@@ -47,15 +51,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mas1@discente.ifpe.edu.br'
-  
   - icon: lattes
   icon_pack: ai
   link: 'http://lattes.cnpq.br/7328233463238631'
-  
   -icon: orcid
   icon_pack: ai
   link: 'https://orcid.org/0000-0001-7267-9938'
-  
   -icon: linkedin
   icon_pack: fas
   link: 'https://www.linkedin.com/in/matheussaturno/'
