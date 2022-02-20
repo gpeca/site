@@ -34,7 +34,6 @@ education:
   - course: Graduação em Engenharia Elétrica
     institution: IFPE
     year: 2018
-	
   - course: Técnico em Informática
     institution: EAD PE
     year: 2015
