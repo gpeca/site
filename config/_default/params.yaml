@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-day_night: false
+day_night: true
 font: native
 font_size: L
 
@@ -24,15 +24,15 @@ email: test@example.org
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  city: Garanhuns
+  region: PE
   postcode: '94305'
-  country: United States
-  country_code: US
+  country: Brasil
+  country_code: BR
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Enter Building C and go to Office Research Room.
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
