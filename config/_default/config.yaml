@@ -4,14 +4,14 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: GPECA # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'gpeca.com.br' # Website URL
+copyright: '© {year} GPECA' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: br
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
