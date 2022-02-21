@@ -10,16 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduando em Engenharia e Pesquisador
+role: Graduando em Engenharia Elétrica e Pesquisador
 
 # Organizations/Affiliations
 organizations:
 - name: Instituto Federal de Pernambuco - Garanhuns
-  url: "https://www.ifpe.edu.br/campus/garanhuns"
-  
+  url: "http://www.ifpe.edu.br/campus/garanhuns"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudante de Engenharia Elétrica com interesse em C&A e Eletrotécnica. 
+bio: Estudante de Engenharia Elétrica com interesse em C&A e Eletrotécnica.
 
 interests:
 - Automação Industrial
@@ -36,7 +35,7 @@ interests:
 education:
   courses:
   - course: Graduação em Engenharia Elétrica
-    institution: IFPE
+    institution: Instituto Federal de Pernambuco
     year: 
   - course: Técnico em Informática
     institution: EAD PE
@@ -49,43 +48,32 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mas1@discente.ifpe.edu.br'
-  - icon: lattes
+  link: "mas1@discente.ifpe.edu.br".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/matheussaturno 
+- icon: orcid
   icon_pack: ai
-  link: 'http://lattes.cnpq.br/7328233463238631'
-  -icon: orcid
-  icon_pack: ai
-  link: 'https://orcid.org/0000-0001-7267-9938'
-  -icon: linkedin
-  icon_pack: fas
-  link: 'https://www.linkedin.com/in/matheussaturno/'
-  
+  link: https://orcid.org/0000-0001-7267-9938
 
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mas1@discente.ifpe.edu.br"
-
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: "mas1@discente.ifpe.edu.br"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
+- Students
 ---
 
-Matheus Albuquerque de Saturno tem interesse na área de sistemas supervisórios, automação industrial, controle de processos, geração, transmissãoe e distribuição de energia. 
+Matheus Albuquerque de Saturno tem interesse na área de sistemas supervisórios, automação industrial, controle de processos, geração, transmissãoe e distribuição de energia.
