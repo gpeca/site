@@ -9,7 +9,7 @@ weight: 10  # Order that this section will appear.
 title: |
   Grupo de Pesquisa  
   Eletrônica, Controle e Automação
-hero_media: gpeca_logo.png
+hero_media: gpeca_logo_closed.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
