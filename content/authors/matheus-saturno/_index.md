@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mas1@discente.ifpe.edu.br".
+  link: mas1@discente.ifpe.edu.br
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/matheussaturno 
