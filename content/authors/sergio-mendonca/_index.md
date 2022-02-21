@@ -88,7 +88,6 @@ email: "sergio.mendonca@ufape.edu.br"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Pesquisadores
-- Pesquisadores Visitantes
 ---
 
 Sérgio Francisco Tavares de Oliveira Mendonça is an Adjunct Professor at Universidade Federal do Agreste de Pernambuco. He studied Computer Science (undergraduate degree) at Universidade Federal Rural de Pernambuco and earned a master’s degree in Computer Science and a doctor’s degree in Electrical Engineering at Universidade Federal de Pernambuco.
