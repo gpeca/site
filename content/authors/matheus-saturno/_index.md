@@ -72,8 +72,7 @@ email: "mas1@discente.ifpe.edu.br"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Students
+- Estudantes de Graduação
 ---
 
 Matheus Albuquerque de Saturno tem interesse na área de sistemas supervisórios, automação industrial, controle de processos, geração, transmissãoe e distribuição de energia.

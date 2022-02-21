@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Pesquisadores
 ---
 
 Manuelle Regina Tavares de Oliveira é Professora no Instituto Federal de Pernambuco, Campus Garanhuns, onde leciona as disciplinas de Sistemas Digitais e Eletrônica. As suas áreas de interesse são Projetos e fabricação de estruturas planares em frequências de microondas e ondas milimétricas, tais como filtros, medidores instanâneos de frequência, sistemas RFID, antenas inteligentes, dispositivos embarcados com foco em Internet das Coisas, sensores aplicados ao monitoramento animal, automação industrial, controle e instrumentação, fontes renováveis de energia e protótipo de processos industriais acionados por fontes renováveis.
